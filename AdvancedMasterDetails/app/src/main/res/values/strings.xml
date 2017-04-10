@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Advanced Master Details</string>
+    <string name="label_name">Mateusz Loska</string>
+    <string name="calc">Licz</string>
+    <string name="calc_error">Błąd obliczeń</string>
+    <string name="currencyValue">Liczba gotówki</string>
+    <string name="investment">Kalkulator Lokat</string>
+    <string name="currency_calculator">Kalkulator Walut</string>
+    <string name="port_version">Wersja pionowa</string>
+</resources>

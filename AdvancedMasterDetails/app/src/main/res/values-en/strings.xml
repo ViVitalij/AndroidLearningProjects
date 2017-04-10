@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Advanced Master Details</string>
+    <string name="label_name" translatable="false">Mateusz Loska</string>
+    <string name="calc">Count</string>
+    <string name="calc_error">Calculation error</string>
+    <string name="currencyValue">Cash amount</string>
+    <string name="investment">Investment calculator</string>
+    <string name="currency_calculator">Currency calculator</string>
+    <string name="port_version">Vertical version</string>
+</resources>

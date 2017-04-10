@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="CalcButton" parent="android:Widget.Holo.Button" >
+
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:text">@string/calc</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+
+</resources>
