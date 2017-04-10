@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Master Detail</string>
+    <string name="general_information">General Information</string>
+    <string name="specific_information">Specific Information</string>
+    <string name="textView">TextView</string>
+    <string name="dummy_kowalski">Jan Kowalski</string>
+    <string name="dummy_ageHeight">Age 30, Height 180 cm</string>
+</resources>
