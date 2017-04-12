@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Numbers ListView</string>
+    <string name="add_number">Add a number</string>
+    <string name="text_view">TextView</string>
+</resources>
