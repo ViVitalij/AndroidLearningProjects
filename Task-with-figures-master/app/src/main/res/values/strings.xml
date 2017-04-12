@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geometry 101</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="circuit">Circuit</string>
+    <string name="area">Area</string>
+    <string name="circle_calculations">Circle Calculations</string>
+    <string name="rectangle_calculations">Rectangle Calculations</string>
+    <string name="triangle_calculations">Triangle Calculations</string>
+    <string name="wrong_data">Wrong Data</string>
+    <string name="circle">Circle</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="triangle">Triangle</string>
+
+</resources>

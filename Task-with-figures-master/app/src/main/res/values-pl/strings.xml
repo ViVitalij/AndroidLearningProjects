@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geometria Wykreślna</string>
+    <string name="hello_blank_fragment">Hello pusty fragment</string>
+    <string name="circuit">Obwód</string>
+    <string name="area">Pole</string>
+    <string name="circle_calculations">Obliczenia dla okręgu</string>
+    <string name="rectangle_calculations">Obliczenia dla prostokąta</string>
+    <string name="triangle_calculations">Obliczenia dla trójkąta</string>
+    <string name="wrong_data">Błędne dane</string>
+    <string name="circle">Okrąg</string>
+    <string name="rectangle">Kwadrat</string>
+    <string name="triangle">Trójkąt</string>
+</resources>
